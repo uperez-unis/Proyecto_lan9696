@@ -1,0 +1,16 @@
+\t (00:00:01) padstack_editor 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Mar 30 20:17:04 2026
+\t (00:00:01)         Host=LAPTOP_URIEL User=uriel Pid=13264 CPUs=8
+\t (00:00:01) CmdLine= padstack_editor -mpssession uriel -file C:/Users/uriel/AppData/Local/Temp/#Taaaaad12776.tmp -pname EX92Y92D72P -data C:/Users/uriel/AppData/Local/Temp/#Taaaaah12776.tmp
+\t (00:00:01) 
+\d (00:00:18) QtSignal GuidedDesignLayersTab PadShapeSymbolBrowse clicked
+\d (00:00:23) QtSignal shapeSymbolBrowser SymbolsList selectionChanged "sha_sot89"
+\d (00:00:23) QtSignal shapeSymbolBrowser SymbolsList selectionChanged "sha_sot89msk"
+\d (00:00:23) QtSignal shapeSymbolBrowser SymbolsList clicked "sha_sot89msk"
+\d (00:00:24) QtSignal shapeSymbolBrowser SymbolsList selectionChanged "sha_sot89msk"
+\d (00:00:24) QtSignal shapeSymbolBrowser SymbolsList selectionChanged "sha_sot89"
+\d (00:00:24) QtSignal shapeSymbolBrowser SymbolsList clicked "sha_sot89"
+\d (00:00:24) QtSignal shapeSymbolBrowser SymbolsList selectionChanged "sha_sot89"
+\d (00:00:25) QtSignal shapeSymbolBrowser Cancel clicked
+\d (00:00:26) QtSignal MainWindow Exit triggered
+\t (00:00:26)     Journal end - Mon Mar 30 20:17:29 2026

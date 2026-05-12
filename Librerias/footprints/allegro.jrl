@@ -1,0 +1,438 @@
+\t (00:00:03) allegro 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu May  7 11:48:09 2026
+\t (00:00:03)         Host=LAPTOP_URIEL User=uriel Pid=3284 CPUs=8
+\t (00:00:03) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Cadence_circuits\Proyecto\libraries_LAN9696\footprints\smc_0201.dra
+\t (00:00:03) 
+\t (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "smc_0201"
+\d (00:00:06) Design opened: C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints/smc_0201.dra
+\i (00:00:06) trapsize 11
+\i (00:00:06) trapsize 12
+\i (00:00:06) trapsize 11
+\i (00:00:07) trapsize 10
+\i (00:00:07) trapsize 10
+\i (00:00:11) updateport SearchPane
+\i (00:00:11) generaledit 
+\t (00:00:11) [11:48:18.218601] Periodic Lic check successful
+[11:48:18.218610] Feature usage summary:
+
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -0.842 0.146
+\t (00:00:11) Loading consmgr.cxt 
+\t (00:00:11) Loading acns_formula.cxt 
+\i (00:00:11) trapsize 20
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 0.266 -0.074
+\i (00:00:13) trapsize 10
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 0.266 -0.074
+\i (00:00:13) trapsize 5
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 0.266 -0.074
+\i (00:00:15) trapsize 10
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -0.310 0.004
+\i (00:00:18) trapsize 5
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in -0.310 0.004
+\i (00:00:19) trapsize 2
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out -0.309 0.005
+\i (00:00:20) trapsize 5
+\i (00:00:20) zoom out 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom out -0.310 0.004
+\i (00:00:20) trapsize 10
+\i (00:00:30) shape select 
+\i (00:00:32) pick grid 0.114 0.298
+\t (00:00:32) last pick:  0.000 0.000
+\i (00:00:33) updateport SearchPane
+\i (00:00:36) drag_start grid 0.312 0.300
+\t (00:00:36) last pick:  0.312 0.300
+\i (00:00:40) drag_stop grid 0.414 0.738
+\t (00:00:40) No DRC errors detected.
+\i (00:00:41) pick grid 0.556 0.190
+\t (00:00:41) last pick:  0.000 0.000
+\w (00:00:41) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:00:44) undo 
+\i (00:00:44) trapsize 10
+\i (00:00:45) updateport SearchPane
+\i (00:00:45) generaledit 
+\i (00:00:48) prmed 
+\i (00:00:48) FORM prmedit design 
+\i (00:00:48) setwindow form.prmedit
+\i (00:00:48) FORM prmedit design  
+\i (00:00:48) setwindow pcb
+\i (00:00:48) trapsize 10
+\i (00:00:52) setwindow form.prmedit
+\i (00:00:52) FORM prmedit cancel  
+\i (00:00:53) setwindow pcb
+\i (00:00:53) generaledit 
+\i (00:00:54) pick grid -0.698 0.500
+\t (00:00:54) last pick:  0.000 0.000
+\i (00:00:58) define grid 
+\t (00:00:58) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:03) setwindow form.grid
+\i (00:01:03) FORM grid non_etch non_etch_x_grids .1 
+\i (00:01:05) FORM grid non_etch non_etch_y_grids .1 
+\i (00:01:08) FORM grid all_etch all_etch_x_grids .1 
+\i (00:01:11) FORM grid all_etch all_etch_y_grids .1 
+\i (00:01:11) FORM grid done  
+\i (00:01:15) setwindow pcb
+\i (00:01:15) shape select 
+\i (00:01:16) pick grid 0.178 0.290
+\t (00:01:16) last pick:  0.200 0.300
+\i (00:01:16) updateport SearchPane
+\i (00:01:18) drag_start grid 0.198 0.300
+\t (00:01:18) last pick:  0.198 0.300
+\i (00:01:22) drag_stop grid 0.204 0.296
+\t (00:01:22) No DRC errors detected.
+\i (00:01:28) prepopup -0.704 0.520
+\i (00:01:30) pick grid -0.690 0.606
+\t (00:01:30) last pick:  -0.700 0.600
+\w (00:01:30) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:01:33) define grid 
+\t (00:01:33) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:46) setwindow form.grid
+\i (00:01:46) FORM grid non_etch non_etch_x_grids 0.05 
+\i (00:01:46) FORM grid done  
+\i (00:01:50) setwindow pcb
+\i (00:01:50) define grid 
+\t (00:01:50) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:56) setwindow form.grid
+\i (00:01:56) FORM grid non_etch non_etch_y_grids .05 
+\i (00:01:56) FORM grid done  
+\i (00:02:00) setwindow pcb
+\i (00:02:00) chg origin 
+\t (00:02:00) Pick new location for drawing origin.
+\i (00:02:00) updateport SearchPane
+\i (00:02:02) define grid 
+\t (00:02:02) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:02:07) setwindow form.grid
+\i (00:02:07) FORM grid all_etch all_etch_x_grids .05 
+\i (00:02:10) FORM grid all_etch all_etch_y_grids .05 
+\i (00:02:10) FORM grid done  
+\i (00:02:14) setwindow pcb
+\i (00:02:14) shape select 
+\i (00:02:15) pick grid 0.044 0.298
+\t (00:02:15) last pick:  0.050 0.300
+\i (00:02:15) updateport SearchPane
+\i (00:02:18) drag_start grid 0.066 0.296
+\t (00:02:18) last pick:  0.066 0.300
+\i (00:02:23) drag_stop grid 0.064 0.286
+\t (00:02:23) No DRC errors detected.
+\i (00:02:27) define grid 
+\t (00:02:27) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:03:21) setwindow form.grid
+\i (00:03:21) FORM grid non_etch non_etch_x_grids .01 
+\i (00:03:24) FORM grid non_etch non_etch_y_grids .01 
+\i (00:03:28) FORM grid all_etch all_etch_x_grids .01 
+\i (00:03:30) FORM grid all_etch all_etch_y_grids .01 
+\i (00:03:30) FORM grid done  
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 0.340 0.098
+\t (00:03:32) Grids are drawn 0.020, 0.020 apart for enhanced viewing.
+\i (00:03:32) trapsize 20
+\i (00:03:32) zoom out 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 0.264 0.054
+\t (00:03:32) Grids are drawn 0.040, 0.040 apart for enhanced viewing.
+\i (00:03:32) trapsize 42
+\i (00:03:32) zoom out 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 1.313 0.758
+\i (00:03:32) trapsize 42
+\i (00:03:32) zoom in 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 0.240 0.484
+\t (00:03:32) Grids are drawn 0.020, 0.020 apart for enhanced viewing.
+\i (00:03:32) trapsize 21
+\i (00:03:32) zoom in 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 0.231 0.480
+\i (00:03:32) trapsize 10
+\i (00:03:32) zoom in 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom in 0.231 0.476
+\i (00:03:32) trapsize 5
+\i (00:03:33) zoom out 1 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out 0.023 0.301
+\i (00:03:33) trapsize 10
+\i (00:03:33) zoom out 1 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out -0.049 0.283
+\i (00:03:33) trapsize 21
+\i (00:03:34) zoom in 1 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) zoom in -0.153 -0.007
+\i (00:03:34) trapsize 10
+\i (00:03:34) zoom in 1 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) zoom in -0.197 0.005
+\i (00:03:34) trapsize 5
+\i (00:03:34) zoom in 1 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) zoom in -0.222 0.052
+\i (00:03:34) trapsize 3
+\i (00:03:36) drag_start grid -0.005 0.299
+\t (00:03:36) last pick:  -0.005 0.300
+\i (00:03:41) drag_stop grid -0.002 0.218
+\t (00:03:41) No DRC errors detected.
+\i (00:03:42) pick grid -0.044 0.300
+\t (00:03:42) last pick:  -0.040 0.300
+\w (00:03:42) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:03:43) pick grid -0.038 0.300
+\t (00:03:43) last pick:  -0.040 0.300
+\w (00:03:43) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:03:44) zoom out 1 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom out -0.039 0.300
+\i (00:03:44) trapsize 5
+\i (00:03:44) zoom out 1 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom out -0.038 0.300
+\i (00:03:44) trapsize 10
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in -0.009 0.282
+\i (00:03:45) trapsize 5
+\i (00:03:45) zoom in 1 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) zoom in -0.009 0.281
+\i (00:03:45) trapsize 3
+\i (00:03:46) prepopup -0.028 0.316
+\i (00:03:47) done 
+\i (00:03:47) updateport SearchPane
+\i (00:03:47) generaledit 
+\i (00:03:49) shape select 
+\i (00:03:50) pick grid 0.032 0.298
+\t (00:03:50) last pick:  0.030 0.300
+\i (00:03:50) updateport SearchPane
+\i (00:03:52) drag_start grid -0.042 0.299
+\t (00:03:52) last pick:  -0.042 0.300
+\i (00:03:54) drag_stop grid -0.043 0.223
+\t (00:03:54) No DRC errors detected.
+\i (00:03:55) pick grid -0.056 0.302
+\t (00:03:55) last pick:  -0.060 0.300
+\w (00:03:55) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:03:55) pick grid dbl -0.056 0.302
+\t (00:03:55) last pick:  -0.060 0.300
+\i (00:03:55) updateport SearchPane
+\i (00:03:55) pick grid -0.052 0.298
+\t (00:03:55) last pick:  -0.050 0.300
+\i (00:03:56) prepopup -0.022 0.300
+\i (00:03:56) done 
+\i (00:03:56) updateport SearchPane
+\i (00:03:56) generaledit 
+\i (00:03:57) pick grid 0.097 0.298
+\t (00:03:57) last pick:  0.100 0.300
+\i (00:03:58) shape select 
+\i (00:03:59) pick grid 0.039 0.303
+\t (00:03:59) last pick:  0.040 0.300
+\i (00:04:00) pick grid 0.051 0.301
+\t (00:04:00) last pick:  0.050 0.300
+\i (00:04:01) zoom out 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom out 0.042 0.265
+\i (00:04:01) trapsize 5
+\i (00:04:01) zoom out 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom out 0.043 0.256
+\i (00:04:01) trapsize 10
+\i (00:04:01) zoom in 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom in 0.059 0.269
+\i (00:04:01) trapsize 5
+\i (00:04:01) zoom in 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom in 0.047 0.283
+\i (00:04:02) trapsize 3
+\i (00:04:05) zoom out 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom out -0.145 0.291
+\i (00:04:05) trapsize 5
+\i (00:04:05) zoom out 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom out -0.142 0.288
+\i (00:04:05) trapsize 10
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in -0.078 0.279
+\i (00:04:05) trapsize 5
+\i (00:04:06) zoom in 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom in -0.107 0.299
+\i (00:04:06) trapsize 3
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in -0.107 0.299
+\i (00:04:07) trapsize 1
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out -0.064 0.276
+\i (00:04:09) trapsize 3
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out -0.062 0.274
+\i (00:04:09) trapsize 5
+\i (00:04:10) zoom out 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom out -0.034 -0.110
+\i (00:04:10) trapsize 10
+\i (00:04:10) zoom out 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom out -0.037 -0.110
+\i (00:04:10) trapsize 21
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in -0.033 -0.247
+\i (00:04:10) trapsize 10
+\i (00:04:11) zoom in 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom in -0.041 -0.244
+\i (00:04:11) trapsize 5
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in 0.038 -0.318
+\i (00:04:12) trapsize 3
+\i (00:04:13) pick grid 0.047 -0.300
+\t (00:04:13) last pick:  0.050 -0.300
+\i (00:04:13) updateport SearchPane
+\i (00:04:14) drag_start grid 0.049 -0.299
+\t (00:04:14) last pick:  0.049 -0.300
+\i (00:04:15) drag_stop grid 0.057 -0.217
+\t (00:04:15) No DRC errors detected.
+\i (00:04:16) pick grid 0.053 -0.299
+\t (00:04:16) last pick:  0.050 -0.300
+\w (00:04:16) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:04:17) pick grid 0.055 -0.300
+\t (00:04:17) last pick:  0.060 -0.300
+\w (00:04:17) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:04:17) pick grid dbl 0.055 -0.300
+\t (00:04:17) last pick:  0.060 -0.300
+\i (00:04:17) updateport SearchPane
+\i (00:04:17) pick grid 0.055 -0.300
+\t (00:04:17) last pick:  0.060 -0.300
+\t (00:04:17) last pick:  0.055 -0.300
+\i (00:04:18) pick grid 0.055 -0.300
+\t (00:04:18) last pick:  0.060 -0.300
+\t (00:04:18) No DRC errors detected.
+\i (00:04:19) drag_start grid 0.056 -0.299
+\t (00:04:19) last pick:  0.056 -0.300
+\i (00:04:20) drag_stop grid 0.057 -0.222
+\t (00:04:20) No DRC errors detected.
+\i (00:04:20) zoom out 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom out 0.100 -0.258
+\i (00:04:21) trapsize 5
+\i (00:04:21) zoom out 1 
+\i (00:04:21) setwindow pcb
+\i (00:04:21) zoom out 0.094 -0.256
+\i (00:04:21) trapsize 10
+\i (00:04:22) prepopup 0.450 -0.346
+\i (00:04:23) done 
+\i (00:04:23) updateport SearchPane
+\i (00:04:23) generaledit 
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out 0.103 -0.563
+\i (00:04:24) trapsize 21
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in 0.356 -0.363
+\i (00:04:25) trapsize 10
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in 0.317 -0.359
+\i (00:04:25) trapsize 5
+\i (00:04:25) zoom in 1 
+\i (00:04:25) setwindow pcb
+\i (00:04:25) zoom in 0.308 -0.355
+\i (00:04:25) trapsize 3
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out 0.186 -0.263
+\i (00:04:26) trapsize 5
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out 0.076 -0.202
+\i (00:04:26) trapsize 10
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in -0.068 -0.112
+\i (00:04:27) trapsize 5
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in -0.096 -0.105
+\i (00:04:27) trapsize 3
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out -0.152 -0.089
+\i (00:04:27) trapsize 5
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out -0.114 -0.074
+\i (00:04:29) trapsize 10
+\i (00:04:30) zoom in 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom in -0.497 0.183
+\i (00:04:30) trapsize 5
+\i (00:04:36) save_as 
+\i (00:05:11) fillin "CAP_GRM0335_P6XP3_MUR.dra"
+\t (00:05:13) Symbol 'cap_grm0335_p6xp3_mur.psm' created.
+\i (00:05:13) updateport SearchPane
+\i (00:05:13) generaledit 
+\t (00:05:13) [11:53:19.020898] Periodic Lic check successful
+[11:53:19.545195] Feature usage summary:
+
+\i (00:05:17) zoom out 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom out 0.117 0.012
+\i (00:05:17) trapsize 10
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 0.116 0.011
+\i (00:05:19) trapsize 5
+\i (00:05:19) zoom in 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom in 0.117 0.012
+\i (00:05:19) trapsize 3
+\i (00:05:20) zoom out 1 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 0.117 0.012
+\i (00:05:20) trapsize 5
+\i (00:05:36) create symbol 
+\i (00:05:46) fillin "CAP_GRM0335_P6XP3_MUR.psm"
+\t (00:05:46) Creating package symbol 'C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints/CAP_GRM0335_P6XP3_MUR.psm'.
+\t (00:05:46) Starting Create symbol...
+\i (00:05:46) updateport SearchPane
+\i (00:05:46) generaledit 
+\i (00:05:49) zoom out 1 
+\i (00:05:49) setwindow pcb
+\i (00:05:49) zoom out 0.016 -0.238
+\i (00:05:49) trapsize 10
+\i (00:05:50) zoom out 1 
+\i (00:05:50) setwindow pcb
+\i (00:05:50) zoom out 0.013 -0.241
+\i (00:05:50) trapsize 21
+\i (00:05:51) zoom in 1 
+\i (00:05:51) setwindow pcb
+\i (00:05:51) zoom in 0.013 -0.240
+\i (00:05:51) trapsize 10
+\i (00:05:53) exit 
+\t (00:05:53) Lic Summary:
+[11:53:59.436170] Cdslmd servers:C:\Users\uriel\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[11:53:59.961176] Feature usage summary:
+
+\t (00:05:53)     Journal end - Thu May  7 11:53:59 2026

@@ -1,0 +1,66 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : J0B-3563NL_PUL.dra                            )
+(    Software Version : 25.1S020                                      )
+(    Date/Time        : Mon Mar 30 21:20:22 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Mar 30 21:20:22 2026				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints/J0B-3563NL_PUL.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/local/pcb/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/allegrolib/symbols 
+           C:/Cadence_circuits/libraries/footprints 
+           C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_25.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/pcb/allegrolib/symbols 
+           C:/Cadence_circuits/libraries/padstacks 
+           C:/Cadence_circuits/Proyecto/libraries_LAN9696/padstacks 
+
+
+------ Pad Stack Refresh Messages ------
+
+'EX92Y92D72P'  pad stack refresh starting.
+
+     'EX92Y92D72P'  pad stack refreshed successfully.
+     
+'EX60Y60D38'  pad stack refresh starting.
+
+     'EX60Y60D38'  pad stack refreshed successfully.
+     
+'EX66Y66D48P'  pad stack refresh starting.
+
+     'EX66Y66D48P'  pad stack refreshed successfully.
+     
+'EX63Y63D43P'  pad stack refresh starting.
+
+     'EX63Y63D43P'  pad stack refreshed successfully.
+     
+'EX59Y59D39P'  pad stack refresh starting.
+
+     'EX59Y59D39P'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

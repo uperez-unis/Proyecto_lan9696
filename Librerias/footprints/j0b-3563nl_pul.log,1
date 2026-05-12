@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : J0B-3563NL_PUL.dra                            )
+(    Software Version : 25.1S020                                      )
+(    Date/Time        : Mon Mar 30 21:11:32 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints
+    Name      = j0b-3563nl_pul.psm
+    User      = uriel
+    Machine   = LAPTOP_URIEL
+
+
+Create symbol started.
+ 
+ WARNING(SPMHA1-301): Create symbol DRC errors exist. 
+
+Create symbol completed.
+

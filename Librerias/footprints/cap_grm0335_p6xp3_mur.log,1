@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAP_GRM0335_P6XP3_MUR.dra                     )
+(    Software Version : 25.1S020                                      )
+(    Date/Time        : Tue Apr 14 06:38:36 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints
+    Name      = cap_grm0335_p6xp3_mur.psm
+    User      = uriel
+    Machine   = LAPTOP_URIEL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

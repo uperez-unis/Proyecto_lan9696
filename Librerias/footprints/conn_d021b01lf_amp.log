@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CONN_D021B01LF_AMP.dra                        )
+(    Software Version : 25.1S020                                      )
+(    Date/Time        : Tue Apr 14 06:43:51 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints
+    Name      = conn_d021b01lf_amp.psm
+    User      = uriel
+    Machine   = LAPTOP_URIEL
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

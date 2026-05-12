@@ -1,0 +1,33 @@
+\t (00:00:02) allegro 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Apr 17 13:29:45 2026
+\t (00:00:02)         Host=LAPTOP_URIEL User=uriel Pid=11484 CPUs=8
+\t (00:00:02) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Cadence_circuits\Proyecto\libraries_LAN9696\footprints\VQFN32_PHA_MCH.dra
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "VQFN32_PHA_MCH"
+\d (00:00:05) Design opened: C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints/VQFN32_PHA_MCH.dra
+\i (00:00:06) trapsize 2305
+\i (00:00:06) trapsize 2377
+\i (00:00:06) trapsize 2305
+\i (00:00:06) trapsize 1971
+\i (00:00:06) trapsize 1971
+\i (00:00:11) updateport SearchPane
+\i (00:00:11) generaledit 
+\t (00:00:11) [13:29:54.319083] Periodic Lic check successful
+[13:29:54.319097] Feature usage summary:
+
+\i (00:00:13) create symbol 
+\i (00:00:16) fillin "VQFN32_PHA_MCH.psm"
+\t (00:00:16) Creating package symbol 'C:/Cadence_circuits/Proyecto/libraries_LAN9696/footprints/VQFN32_PHA_MCH.psm'.
+\t (00:00:16) Starting Create symbol...
+\i (00:00:17) updateport SearchPane
+\i (00:00:17) generaledit 
+\i (00:00:19) exit 
+\t (00:00:20) Loading consmgr.cxt 
+\t (00:00:20) Loading acns_formula.cxt 
+\t (00:00:20) Lic Summary:
+[13:30:03.151043] Cdslmd servers:C:\Users\uriel\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[13:30:03.151802] Feature usage summary:
+
+\t (00:00:20)     Journal end - Fri Apr 17 13:30:03 2026
