@@ -348,3 +348,7 @@ Proyecto_LAN9696/
 │
 ├── Imagenes/
 │   └── Capturas del esquemático, layout y diagrama de bloques
+│
+├── EVB LAN9696/
+│   └── Archivos de referencia del proyecto
+
