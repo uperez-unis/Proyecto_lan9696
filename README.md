@@ -19,9 +19,6 @@ El proyecto fue desarrollado utilizando herramientas de **Cadence**, específica
 4. [Requerimientos y decisiones de diseño](#4-requerimientos-y-decisiones-de-diseño)
 5. [Alcance del proyecto](#5-alcance-del-proyecto)
 6. [Estructura del repositorio](#6-estructura-del-repositorio)
-7. [Herramientas utilizadas](#7-herramientas-utilizadas)
-8. [Conclusión](#8-conclusión)
-9. [Autor](#9-autor)
 
 ---
 
